@@ -1,3 +1,21 @@
+# First: Installation 
+
+- Prerequisites
+
+Before installing the Habit Tracking App, make sure you have the following prerequisites:
+
+Python 3.8 or higher is installed on your computer.
+
+A package manager such as pip is available.
+
+Git is installed in case you want to clone the code directly from a repository.
+
+- If not, install the required Python libraries:
+pandas
+matplotlib
+
+# Next: Clone repository & run app
+
 # Documentation for the `HabitTrackerDaily` Class
 
 The `HabitTrackerDaily` class allows users to track their daily habits, calculate self-care scores, monitor streaks, and receive rewards based on their consistency. It includes methods for adding and updating daily habit entries, calculating streaks, visualizing habit data, and saving/loading data from a file.
