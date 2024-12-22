@@ -6,7 +6,7 @@ The `HabitTrackerDaily` class allows users to track their daily habits, calculat
 1. Imports
 2. Class-Overview
 3. Constructor
-4. [Methods
+4. Methods
 
 ---
 
