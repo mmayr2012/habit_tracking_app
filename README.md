@@ -1,18 +1,18 @@
 # First: Installation 
 
-- Prerequisites
+Prerequisites
 
-Before installing the Habit Tracking App, make sure you have the following prerequisites:
+- Before installing the Habit Tracking App, make sure you have the following prerequisites:
 
-Python 3.8 or higher is installed on your computer.
+- Python 3.8 or higher is installed on your computer.
 
-A package manager such as pip is available.
+- A package manager such as pip is available.
 
-Git is installed in case you want to clone the code directly from a repository.
+- Git is installed in case you want to clone the code directly from a repository.
 
-- If not, install the required Python libraries:
-pandas
-matplotlib
+If not, install the required Python libraries:
+- pandas
+- matplotlib
 
 # Next: Clone repository & run app
 
